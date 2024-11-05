@@ -1,0 +1,8 @@
+../Core/Src/scheduler.c:28:6:TaskCreate	1
+../Core/Src/scheduler.c:38:6:TaskInit	1
+../Core/Src/scheduler.c:90:6:InitScheduler	3
+../Core/Src/scheduler.c:113:5:ContextSwitch	2
+../Core/Src/scheduler.c:137:6:Task0	1
+../Core/Src/scheduler.c:143:6:Task1	1
+../Core/Src/scheduler.c:150:6:Task2	1
+../Core/Src/scheduler.c:157:6:Task3	1

@@ -1,0 +1,3 @@
+buildConsole/keepLog=true
+buildConsole/logLocation=/Users/patriciobulic/STM32CubeIDE/VGRS2024-Scheduler/.metadata/.plugins/org.eclipse.cdt.ui/RTOSScheduler.build.log
+eclipse.preferences.version=1

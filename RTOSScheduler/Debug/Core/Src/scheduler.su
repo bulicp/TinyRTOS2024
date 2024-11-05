@@ -1,0 +1,8 @@
+../Core/Src/scheduler.c:28:6:TaskCreate	0	static
+../Core/Src/scheduler.c:38:6:TaskInit	0	static
+../Core/Src/scheduler.c:90:6:InitScheduler	24	static,ignoring_inline_asm
+../Core/Src/scheduler.c:113:5:ContextSwitch	8	static,ignoring_inline_asm
+../Core/Src/scheduler.c:137:6:Task0	0	static
+../Core/Src/scheduler.c:143:6:Task1	8	static
+../Core/Src/scheduler.c:150:6:Task2	8	static
+../Core/Src/scheduler.c:157:6:Task3	8	static

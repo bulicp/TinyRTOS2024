@@ -1,0 +1,10 @@
+19:19:03 **** Incremental Build of configuration Debug for project RTOSScheduler ****
+make -j9 all 
+arm-none-eabi-size  RTOSScheduler.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6124	     16	   5720	  11860	   2e54	RTOSScheduler.elf
+Finished building: default.size.stdout
+ 
+
+19:19:03 Build Finished. 0 errors, 0 warnings. (took 277ms)
+
